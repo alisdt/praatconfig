@@ -11,4 +11,4 @@ The second must be a CSV file with two columns, `parameter` and `type`. The proc
 
 It returns these parameters as .number and .string$
 
-There are a couple of obvious ommissions in this as it is -- see Issues.
+There are at least a couple of obvious omissions in this as it is -- see Issues.
