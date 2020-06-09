@@ -9,6 +9,6 @@ The second must be a CSV file with two columns, `parameter` and `type`. The proc
 * All parameters specified in the second file are present
 * All parameters given a type `number` in the second file can be interpreted as a number
 
-It returns these parameters as .number and .string$
+It returns these parameters as two dictionaries, .numbers and .strings$
 
 There are at least a couple of obvious omissions in this as it is -- see Issues.
